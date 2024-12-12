@@ -59,9 +59,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![EMPD exp 5_1](https://github.com/user-attachments/assets/f6d5cef9-5889-416b-bcd3-d68e2841d877)
+![EMPD exp 5_3](https://github.com/user-attachments/assets/04f8ec08-6fe9-4f44-95c5-353fcf831de7)
+![EMPD exp 5_2](https://github.com/user-attachments/assets/c5cabe15-6ba5-488d-a6df-6c78ce49d5aa)
 
-### Name: 
-### Register Number:
+### Name: S. Sanjeev Kumar
+### Register Number: 24006649
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
